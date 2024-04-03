@@ -334,8 +334,8 @@
 "$reflect_on_your_work_details" = "Session будзе прапанаваць абмеркаваць ваш прагрэс у канцы кожнай сесіі";
 "$calendar_integration" = "Інтэграцыя календара";
 "$calendar_integration_details" = "Падзеі з вашага календара будуць у Session; Вашы сесіі будуць у Apple Calendar.";
-"$see_what_you_have_achieved_so_far" = "Глядзіце, чаго вы дасягнулі";
-"$see_what_you_have_achieved_so_far_details" = "Session сочыць над чым ты працуеш і як доўга. Аглядай свой прагэс.";
+"$see_what_you_have_achieved_so_far" = "Глязі на дасягнені";
+"$see_what_you_have_achieved_so_far_details" = "Session зберагае кожны крок і дазвале пабачыць прагрэс.";
 "$session_works_best_when_used_regularly" = "Session лепш працуе калі выкарыстоўваецца рэгулярна";
 "$session_works_best_when_used_regularly_details" = "Пачні ствараць карысную звычку, Session будзе нагадваць з панядзелка па пятніцу. Гэта можна змяніць у наладах.";
 // Pro features
@@ -368,13 +368,13 @@
 "$create_session_account_details" = "Session Pro разблакіруецца на 7 дзён калі ты зарэгіструешся!";
 "$complete_your_first_session" = "Закончы сваю першую сесію";
 "$complete_your_first_session_details" = "Пачні сваю першую сесію.";
-"$integrate_session_with_your_calendar" = "Інтэгруй Session з календаром";
-"$integrate_session_with_your_calendar_details" = "Пабач свой дзень. Ты можаш інтэграваць ў наластаваннях калі зарэгіструешся.";
+"$integrate_session_with_your_calendar" = "Падключы каляндар у Session";
+"$integrate_session_with_your_calendar_details" = "Улічвае свае планы. Ты можаш падлючыць і выкарыстоўваць свой календар пасля рэгістрацыі.";
 "$get_started_with_session_on %@" = "Пачніце з Session з %@";
 "$get_started_with_session_on_details" = "Даведацца як наладзіць Session могуць палепшыць прадуктыўнасць.";
-"$setup_complete" = "Устаноўка Session завершаны!";
-"$setup_complete_details" = "Упэўнены, Session дапаможа стаць прадуктыўным.";
-"$skip_or_finish_tutorial" = "Прапусціць / закончыць навучанне";
+"$setup_complete" = "Устаноўка Session завершана!";
+"$setup_complete_details" = "Session, дакладна, дапаможа стаць прадуктыўным.";
+"$skip_or_finish_tutorial" = "Закончыць навучанне";
 "$let_session_notify_you" = "Дазволь Session нагадваць цябе!";
 "$let_session_notify_you_details" = "Session патрэбны доступ да апавяшчэнняў каб нагадваць калі час сесія закончыцца";
 "$apple_calendar_prompt_to_delete" = "Сінхранізацыя з Apple календаром прыпынена";
@@ -404,7 +404,7 @@
 "$are_you_sure_you_want_to_delete %@" = "Вы сапраўды хочаце выдаліць \"%@\"?";
 "$yes_delete_it" = "Так, выдаліць";
 //Used in the list of calendars.
-"$none" = "Не выбрана";
+"$none" = "Не";
 "$every_day" = "Штодзённа";
 "$every_week" = "Што тыдня";
 "$every_month" = "Штомесяц";
@@ -483,24 +483,24 @@
 "$tutorial" = "Навучанне";
 "$tutorial_set_intention" = "Устанавіць мэту кожнай сесіі";
 "$tutorial_set_intention_description" = "Парада: Увядзі @ каб выбраць катэгорыю 30m, 2h каб задасць трываласць";
-"$tutorial_change_start_date" = "Змяніць дату і трываласць сесіі";
-"$tutorial_change_start_date_description" = "Карысна, калі трэба змяніць дату пачатку (забылі пачаць сесію пасля пачатку працы), ці калі трэба задаць трываласць сесіі";
+"$tutorial_change_start_date" = "Меняй дату і трываласць";
+"$tutorial_change_start_date_description" = "Нават калі сесія пачалсь час пачатку і трываласць можно змяніць. Пачаць сесію і забылі запусціць Session, заўжды можна выправіць.";
 "$tutorial_stop_working" = "Спыніць сесію";
 "$tutorial_stop_working_description" = "Прыпыніце працаваць і зберажыце прагрэс";
 "$tutorial_take_a_break" = "Адпачыць";
 "$tutorial_take_a_break_description" = "Набярыся сіл перад пачаткам наступнай сесіі";
-"$tutorial_change_category" = "Змяніць катэгорыю";
-"$tutorial_change_category_description" = "Змяніць катэгорыю калі ідзе сессія";
-"$tutorial_change_intention" = "Змяніць намер";
-"$tutorial_change_intention_description" = "Змяніць мэту калі сесія ідзе";
+"$tutorial_change_category" = "Выбраць катэгорыю";
+"$tutorial_change_category_description" = "Ты можаш выбраць іншую катэгорыю пад час сесіі";
+"$tutorial_change_intention" = "Змяніць мэту";
+"$tutorial_change_intention_description" = "Ты можаш меняць мэту пад час сесіі";
 "$tutorial_continue_session_from_break" = "Запланаваць сесію";
 "$tutorial_continue_session_from_break_description" = "Пачніце працаваць над запланаванай сесіяй";
 "$tutorial_schedule_session_after_break" = "Запланаваць наступную сесію пасля перапынку";
 "$tutorial_schedule_session_after_break_description" = "Увядзіце катэгорыю і мэту для наступнай сесіі пасля перапынку";
 "$tutorial_repeat_session" = "Паўтарыць сесію і прапусціць перапынак";
 "$tutorial_repeat_session_description" = "Зручна, калі вы на хвале і хочаце прапусціць перапынак";
-"$tutorial_change_report_period" = "Змяніць перыяд";
-"$tutorial_change_report_period_description" = "Глядзі на папярэднія сесіі ў дзень, тыдзень ці месяц";
+"$tutorial_change_report_period" = "Перыяд";
+"$tutorial_change_report_period_description" = "Глядзі на папярэднія сесіі па днях, тыднях ці месяцах";
 "$now" = "Цяпер";
 "$show_session_app" = "Паказаць Session";
 "$pause_session" = "Спыніць сесію";
@@ -511,7 +511,7 @@
 "$open_preference" = "У налады";
 "$default_calendar" = "Стандартны каляндар";
 "$default_calendar_duration_minute" = "Трываласць стандартнага календара (хв.)";
-"$show_notes_only" = "Паказаць толькі нататкі";
+"$show_notes_only" = "Толькі з нататкамі";
 "$show_all_category" = "Паказаць усе катэгорыі";
 "$hide_all_category" = "Схаваць усе катэгорыі";
 "$current_category_only" = "Толькі выкарыстаную катэгорыю";
@@ -524,10 +524,10 @@
 "$this_action_is_not_reversible" = "Гэту падзею нельга будзе адмяніць";
 "$type %@ to_permanently_delete_your_account" = "Увядзі \"%@\" каб выдаліць уліковы запіс назаўжды";
 "$if_youre_subscribed_to_session_pro_make_sure_you_unsubscribe_first_before_deleting_your_account" = "Калі ты падпішашся на Session Pro, упэўніся што адпісаўся перад тым як выдаліць уліковы запіс";
-"$show_intention_suggestions_by" = "Прапанаваць мэту ад";
+"$show_intention_suggestions_by" = "Прапанаваць мэту";
 // There could be issue if this translation used not only with categories
-"$all" = "Усе катэгорыі";
-"$active_category" = "Ужываны катэгорыі";
+"$all" = "з усех катэгорый";
+"$active_category" = "з выбранай катэгорыі";
 "$create_category %@" = "Стварыць катэгорыю \"%@\"";
 "$default" = "Стандарт";
 "$delete" = "Выдаліць";
