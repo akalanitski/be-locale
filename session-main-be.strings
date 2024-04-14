@@ -22,7 +22,7 @@
 "$edit_focus" = "Змяніць фокус";
 // generic
 "$notes" = "Нататкі";
-"$average" = "Сярэдняе";
+"$average" = "Сярэд.";
 "$category" = "Катэгорыя";
 "$ratio" = "%";
 "$time_spent" = "Час";
@@ -42,16 +42,16 @@
 "$archive" = "Архіў";
 "$edit" = "Рэдагаваць";
 "$categories" = "Катэгорыі";
-"$archived" = "Архіўны";
-"$show_archived_session" = "Паказаць архіўныя сесіі";
+"$archived" = "Архіў";
+"$show_archived_session" = "Паказаць архіў сесій";
 "$write_your_thoughts_placeholder" = "Запішыце свае думкі, нататкі ці тое што вас засмуціла.";
 "$day" = "дзень";
 "$week" = "тыдзень";
 "$month" = "месяц";
-"$total_focus" = "Агульны час";
+"$total_focus" = "агул. час сесій";
 "$avg_focus/day" = "сяр. час у дзень";
 "$most_focused" = "больш уважны";
-"$total_break" = "час адпачынку";
+"$total_break" = "агул. час адпачынку";
 "$focus/break" = "сесія/адпачынак";
 "$most_distracted" = "менш уважны";
 "$upgrade_to_pro_to_select_more_than_three_category" = "Абнавіцца да Pro каб абіраць больш за тры катэгорыі!";
@@ -75,9 +75,9 @@
 "$cancel" = "Скасаваць";
 "$recent_notes" = "Нядаўнія нататкі";
 "$cancel_input" = "Скасаваць увод";
-"$focus_input" = "Фокус на поле";
+"$focus_input" = "Выбраць поле мэты";
 "$suggestion" = "Прапанова";
-"$commit_suggestion" = "Зафіксаваць прапанову";
+"$commit_suggestion" = "Выбраць прапанову";
 "$next_suggestion" = "Наступная прапанова";
 "$prev_suggestion" = "Папярэдняя";
 "$may_not_be_up_to_date" = "Можа быць не апошняя";
@@ -109,7 +109,7 @@
 "$min" = "Хв.";
 "$add_new_session" = "Дадаць новую Сесію";
 "$add_session" = "Дадаць Сесію";
-"$add_session_description" = "Каб зберагчы сесію якую вы зрабілі без выкарыстання таймера";
+"$add_session_description" = "Запішы сесію якая адбылась без выкарыстання таймера";
 "$edit_session" = "Змяніць Сесію";
 "$save_session" = "Захаваць Сесію";
 "$save_changes" = "Захаваць Змены";
@@ -124,16 +124,16 @@
 "$morning" = "ранак";
 "$noon" = "поўдзень";
 "$evening" = "вечар";
-"$report" = "Даклад";
+"$report" = "Аналітыка";
 "$daily_report" = "даклад за дзень";
 "$weekly_report" = "даклад за тыдзень";
 "$monthly_report" = "даклад за месяц";
 "$daily_overview" = "Агляд дня";
 "$close_modal" = "Закрыць акно";
 "$timeline" = "Хроніка";
-"$daily_distribution" = "Размеркаванне па днях";
-"$category_distribution" = "Размеркаванне па катэгорыі";
-"$by_intention" = "Размеркаванне па мэце";
+"$daily_distribution" = "па днях";
+"$category_distribution" = "па катэгорыі";
+"$by_intention" = "па мэце";
 "$havent_logged_in" = "Вы ўжо зайшлі";
 "$ask_user_to_create_account" = "Калі ласка стварыце ўліковы запіс ці ваўдзіце першы раз як актывіраваць сінхранізацыю меж прыладамі";
 // Break View
@@ -164,7 +164,7 @@
 "$save" = "Захаваць";
 "$next" = "Далей";
 // Settings
-"$preferences" = "Параметры";
+"$preferences" = "Налады";
 "$general" = "Агульныя";
 "$keyboard_shortcut" = "Спалучэнні Клавіш";
 "$timer_scrubbing" = "Пракручванне таймера";
@@ -192,7 +192,7 @@
 "$daily_streak_target" = "Мэта сесій у дзень";
 "$session_duration_min" = "Даўжыня сесіі (хв.)";
 "$short_break_min" = "Кароткі адпачынак (хв.)";
-"$long_break_min" = "Доўгая адпачынак (хв.)";
+"$long_break_min" = "Доўгі адпачынак (хв.)";
 "$long_break_every" = "Доўгі адпачынак кожныя (Сесія)";
 "$long_break_after_focus_min" = "Доўгі адпачынак пасля працы над. (хв.)";
 "$ask_for_reflection" = "Запытаць думкі ў канцы сесіі";
@@ -202,7 +202,7 @@
 "$keep_session_window_on_top" = "Трымаць Session вышэй за іншыя аплікацыі";
 "$keep_session_window_on_top_on_break" = "Трымаць Session вышэй пад час адпачынаку";
 "$show_session_on_top_when_timer_ends" = "Паказаць Session паверх калі таймер скончыўся";
-"$reset_to_default" = "Reset to default";
+"$reset_to_default" = "Скінуць усё";
 "$reset_default_preferences" = "Скінуць налады";
 "$reset_onboarding" = "Скінуць прагрэс навучання";
 "$clear_stuck_notifications" = "Ачысціць апавяшчэнні";
@@ -229,12 +229,12 @@
 "$menubar_show_task_title" = "Паказаць мэту ў вобласць меню";
 "$menubar_show_category" = "Паказаць катэгорыю ў вобласці меню";
 "$menubar_show_duration" = "Паказаць трываласць у вобласці меню";
-"$menubar_show_total_focus_time_today" = "Паказаць агульны час фокусу у вобласці меню";
+"$menubar_show_total_focus_time_today" = "Паказаць агульны час сесіі у вобласці меню";
 "$show_icon_on_dock" = "Паказаць значок на доку";
 "$calendar_show_calendar_on_session" = "Паказаць мой каляндар у Session";
-"$calendar_show_session_on_calendar" = "Паказаць Sessions у Apple каляндары";
+"$calendar_show_session_on_calendar" = "Паказаць сесіі у Apple каляндары";
 "$calendar_show_session_on_calendar_details" = "Уключы гэта толькі на адным прыладзе. Ўсе будучыя падзеі будуць створаны тут. Калі даныя календара не сінхранізуюцца пераключы гэту птушку.";
-"$calendar_shown" = "Паказаныя календары";
+"$calendar_shown" = "Календары";
 "$calendar_hide_all" = "Схаваць усе календары";
 "$notification_volume" = "Гучнасць апавяшчэння";
 "$session_end_volume" = "Гучнасць канца сесіі";
@@ -293,11 +293,11 @@
 "$faq" = "Частыя пытанні";
 "$faq_details" = "Калі ў вас ёсць пытанні з сінхранізацыяй, календаром ці пакупкамі — верагодна адказ ужо ёсць тут";
 "$contact_us" = "Звязацца з намі";
-"$contact_us_details" = "Запытайце нас на Email (English only)";
+"$contact_us_details" = "Запытаць па Email (English only)";
 "$whats_new" = "Што новага?";
 "$whats_new_details" = "Спіс абнаўленяў Session!";
 "$follow_twitter" = "Сачыце за намі ў Twitter";
-"$follow_twitter_details" = "Ці запытайце што цябе цікавіць";
+"$follow_twitter_details" = "Ці запытайце што цікавіць";
 "$community_at_discord" = "Суполка ў Discord";
 "$community_at_discord_details" = "Дыскусіі, падтрымка і зваротная сувязь";
 "$session_website" = "Сайт Session";
@@ -334,7 +334,7 @@
 "$reflect_on_your_work_details" = "Session будзе прапанаваць абмеркаваць ваш прагрэс у канцы кожнай сесіі";
 "$calendar_integration" = "Інтэграцыя календара";
 "$calendar_integration_details" = "Падзеі з вашага календара будуць у Session; Вашы сесіі будуць у Apple Calendar.";
-"$see_what_you_have_achieved_so_far" = "Глядзіце, чаго вы дасягнулі";
+"$see_what_you_have_achieved_so_far" = "Сачы за дасягненнямі!";
 "$see_what_you_have_achieved_so_far_details" = "Session сочыць над чым ты працуеш і як доўга. Аглядай свой прагэс.";
 "$session_works_best_when_used_regularly" = "Session лепш працуе калі выкарыстоўваецца рэгулярна";
 "$session_works_best_when_used_regularly_details" = "Пачні ствараць карысную звычку, Session будзе нагадваць з панядзелка па пятніцу. Гэта можна змяніць у наладах.";
@@ -368,8 +368,8 @@
 "$create_session_account_details" = "Session Pro разблакіруецца на 7 дзён калі ты зарэгіструешся!";
 "$complete_your_first_session" = "Закончы сваю першую сесію";
 "$complete_your_first_session_details" = "Пачні сваю першую сесію.";
-"$integrate_session_with_your_calendar" = "Інтэгруй Session з календаром";
-"$integrate_session_with_your_calendar_details" = "Пабач свой дзень. Ты можаш інтэграваць ў наластаваннях калі зарэгіструешся.";
+"$integrate_session_with_your_calendar" = "Інтэгруй свой каляндар";
+"$integrate_session_with_your_calendar_details" = "Алядай свой дзень у Session. Інтэграваць каляндар можна у наладах пасля зарэгістрацыі.";
 "$get_started_with_session_on %@" = "Пачніце з Session з %@";
 "$get_started_with_session_on_details" = "Даведацца як наладзіць Session могуць палепшыць прадуктыўнасць.";
 "$setup_complete" = "Устаноўка Session завершаны!";
@@ -392,7 +392,7 @@
 "$alarm" = "Будзільнік";
 "$alarms" = "Будзільнікі";
 "$add_calendar_event" = "Дадаць падзею ў каляндар";
-"$add_calendar_event_description" = "Зручна планаваць сесію для таго што вы будзіце забіць";
+"$add_calendar_event_description" = "Зручна планаваць сесію на перад";
 "$add_calendar_event_to_session" = "Дадаць падзею ў Session";
 "$edit_calendar_event" = "Змяніць падзею";
 "$delete_calendar_event" = "Выдаліць падзею";
@@ -403,7 +403,7 @@
 "$url" = "URL";
 "$are_you_sure_you_want_to_delete %@" = "Вы сапраўды хочаце выдаліць \"%@\"?";
 "$yes_delete_it" = "Так, выдаліць";
-"$none" = "Не выбрана";
+"$none" = "не";
 "$every_day" = "Штодзённа";
 "$every_week" = "Што тыдня";
 "$every_month" = "Штомесяц";
@@ -480,8 +480,8 @@
 "$delete_break" = "Выдаліць адпачынак";
 "$save_break" = "Захаваць адпачынак";
 "$tutorial" = "Навучанне";
-"$tutorial_set_intention" = "Устанавіць мэту кожнай сесіі";
-"$tutorial_set_intention_description" = "Парада: Увядзі @ каб выбраць катэгорыю 30m, 2h каб задасць трываласць";
+"$tutorial_set_intention" = "Задаць мэту";
+"$tutorial_set_intention_description" = "Парада: Увядзі \"@\" каб выбраць катэгорыю. Увядзі \"30m, 2h\" каб задасць трываласць";
 "$tutorial_change_start_date" = "Змяніць дату і трываласць сесіі";
 "$tutorial_change_start_date_description" = "Карысна, калі трэба змяніць дату пачатку (забылі пачаць сесію пасля пачатку працы), ці калі трэба задаць трываласць сесіі";
 "$tutorial_stop_working" = "Спыніць сесію";
@@ -489,9 +489,9 @@
 "$tutorial_take_a_break" = "Адпачыць";
 "$tutorial_take_a_break_description" = "Набярыся сіл перад пачаткам наступнай сесіі";
 "$tutorial_change_category" = "Змяніць катэгорыю";
-"$tutorial_change_category_description" = "Змяніць катэгорыю калі ідзе сессія";
-"$tutorial_change_intention" = "Змяніць намер";
-"$tutorial_change_intention_description" = "Змяніць мэту калі сесія ідзе";
+"$tutorial_change_category_description" = "катэгорыю можна змяніць пад час сесіі";
+"$tutorial_change_intention" = "Змяніць мэту";
+"$tutorial_change_intention_description" = "мэту можна змяніць пад час сесіі";
 "$tutorial_continue_session_from_break" = "Запланаваць сесію";
 "$tutorial_continue_session_from_break_description" = "Пачніце працаваць над запланаванай сесіяй";
 "$tutorial_schedule_session_after_break" = "Запланаваць наступную сесію пасля перапынку";
@@ -499,7 +499,7 @@
 "$tutorial_repeat_session" = "Паўтарыць сесію і прапусціць перапынак";
 "$tutorial_repeat_session_description" = "Зручна, калі вы на хвале і хочаце прапусціць перапынак";
 "$tutorial_change_report_period" = "Змяніць перыяд";
-"$tutorial_change_report_period_description" = "Глядзі на папярэднія сесіі ў дзень, тыдзень ці месяц";
+"$tutorial_change_report_period_description" = "Глядзі на папярэднія сесіі за дзень, тыдзень ці месяц";
 "$now" = "Цяпер";
 "$show_session_app" = "Паказаць Session";
 "$pause_session" = "Спыніць сесію";
@@ -510,10 +510,10 @@
 "$open_preference" = "У налады";
 "$default_calendar" = "Стандартны каляндар";
 "$default_calendar_duration_minute" = "Трываласць стандартнага календара (хв.)";
-"$show_notes_only" = "Паказаць толькі нататкі";
+"$show_notes_only" = "толькі з нататкамі";
 "$show_all_category" = "Паказаць усе катэгорыі";
 "$hide_all_category" = "Схаваць усе катэгорыі";
-"$current_category_only" = "Толькі выкарыстаную катэгорыю";
+"$current_category_only" = "Толькі выбранная катэгорыя";
 "$no_recent_notes_found_if_theres_any_it_will_be_shown_here" = "Няма нядаўніх нататак. Калі будуць, будуць тут.";
 "$toggle_background_sound" = "Пераключыць фонавы гук";
 "$app_blocked" = "Заблакіраваныя аплікацыі";
@@ -523,9 +523,9 @@
 "$this_action_is_not_reversible" = "Гэту падзею нельга будзе адмяніць";
 "$type %@ to_permanently_delete_your_account" = "Увядзі \"%@\" каб выдаліць уліковы запіс назаўжды";
 "$if_youre_subscribed_to_session_pro_make_sure_you_unsubscribe_first_before_deleting_your_account" = "Калі ты падпішашся на Session Pro, упэўніся што адпісаўся перад тым як выдаліць уліковы запіс";
-"$show_intention_suggestions_by" = "Прапанаваць мэту ад";
-"$all" = "Усе катэгорыі";
-"$active_category" = "Ужываны катэгорыі";
+"$show_intention_suggestions_by" = "Прапанаваць мэту";
+"$all" = "з усех катэгорый";
+"$active_category" = "з выбранай катэгорыі";
 "$create_category %@" = "Стварыць катэгорыю \"%@\"";
 "$default" = "Стандарт";
 "$delete" = "Выдаліць";
@@ -545,12 +545,12 @@
 "$no_category_archive_error_title" = "Катэгорыя не можа быць архівізавана";
 "$no_category_archive_error_details" = "Немагчыма архівіраваць \"без катэгорыі\". Гэта катэгорыя выкарыстоўваецца калі нічога не выбрана";
 "$upgrade_to_sync_and_backup_data" = "Абнавіся каб сінхранізаваць і рабіць рэзервную копію даных";
-"$create_more" = "Стварыць больш";
+"$create_more" = "Стварыць яшчэ";
 "$session_created" = "Сесія створана";
 "$applescript" = "AppleScript";
 "$apple_shortcut" = "Apple Shortcuts";
 "$notification" = "Апавяшчэнні";
-"$live_activity" = "Актыўнасць";
+"$live_activity" = "Live Activity";
 "$display" = "Выгляд";
 "$accessibility" = "Даступнасць";
 "$window" = "Акно";
@@ -570,7 +570,7 @@
 "$keyword_matches %@" = "ключавыя словы супадаюць з \"%@\"";
 "$keyword_cant_be_empty" = "Ключавое слова не можа быць пустым";
 "$feature_request" = "Запрос функцый";
-"$feature_request_subtitle" = "Бракуе функцыяналу? Прапануй ці галасуй за функцыі якая цябе трэба!";
+"$feature_request_subtitle" = "Бракуе функцыяналу? Прапануй ці галасуй за функцыі якая трэба!";
 "$add_rule" = "Дадаць правіла";
 "$add_group" = "Дадаць групу";
 "$rule" = "Правіла";
@@ -582,7 +582,7 @@
 "$add_profile" = "Дадаць профіль";
 "$save_profile" = "Захаваць профіль";
 "$profile_header_subtitle" = "Кіруй трываласцю сесіі, апавяшчэннямі, блакіраваннем аплікацый і г.д.";
-"$session_duration_30_min_while_reading" = "Задаць 30 хв Session трываласць калі мэта мае слова \"чытаць\"";
+"$session_duration_30_min_while_reading" = "Задаць трываласць сесіі 30 хв калі мэта мае слова \"чытаць\"";
 "$block_productive_apps_on_break" = "Блакіруйце прадуктыўныя праграмы на адпачынаку каб не перапрацаваць";
 "$disable_web_and_app_blocking_while_intention_has_learn" = "Забараніць сайты і аплікацыі калі мэта мае слова \"навучанне\"";
 "$disable_notification_on_meeting" = "Забараніць гукавыя апавяшчэнні калі мэта мае слова \"сустрэча\", ці катэгорыя \"сустрэча\"";
@@ -595,7 +595,7 @@
 "$change_leave_primary_action" = "Так, скасаваць змены";
 "$presence" = "Прысутнасць";
 "$presence_subtitle" = "Прысутнасць прайграе далікатнае апавяшчэнне каб нагадаць пра працу. Зручнае нагадванне каб павярнуць увагу калі вы збіліся.";
-"$enable_session_presence" = "Дазволіць прысутнасць Session";
+"$enable_session_presence" = "Дазволіць Live Activity Session";
 "$overflow" = "Перапаўненне";
 "$overflow_subtitle" = "Перапаўненне даставіць сістэмнае і push-апавішчэне на ўсе прылады каб нагадаць што таймер яшчэ ідзе. Зручнае нагадванне што сесія яшчэ ідзе.";
 "$enable_session_pause_overflow" = "Дазволіць перапаўненне паўзы";
@@ -605,8 +605,8 @@
 "$next_sidebar_item" = "Наступны элемент бакавой панэлі";
 "$prev_sidebar_item" = "Папярэдні элемент бакавой панэлі";
 "$sidebar_example_subtitle" = "Бакавая панэль дазволена ў наладах. Вкарыстоўвайце клавіятуру для навігацыі ў меню.";
-"$use_calendar_duration_for_session_start" = "Выкарыстоўвай трываласць сесіі з календара";
-"$focus_intention_field_on_category_change" = "Выбраць поле мэты калі меняеце катэгорыя";
+"$use_calendar_duration_for_session_start" = "Выкарыстоўць трываласць сесіі з календара";
+"$focus_intention_field_on_category_change" = "Выбраць поле мэты пасля выбару катэгорыі";
 "$session_ending_soon" = "Сеанс хутка закончыцца";
 "$session_ending_soon_subtitle" = "Выдатна! Нагадаю дадаць нататкі для наступнай сесіі. Адпачын і набярыся сіл.";
 "$break_ending_soon" = "Адпачынак хутка закончыцца";
@@ -616,7 +616,7 @@
 "$ending_soon_duration" = "Хутка канец (хв.)";
 "$time" = "Час";
 "$always_show_live_activity" = "Заўжды паказваць Live Activity";
-"$always_show_live_activity_subtitle" = "Гэта опцыя дазваляе мачыць таймер на iOS ці MacOS нават калі аплікацыя не запушчана";
+"$always_show_live_activity_subtitle" = "Гэта опцыя дазваляе бачыць таймер на iOS і MacOS нават калі аплікацыя не запушчана";
 "$well_done" = "Выдатна!";
 "$long_break_triggered_subtitle" = "Ты ўжо пэўны час трымаеш увагу. Вазьмі доўгі адпачынак!";
 "$query" = "запыт";
@@ -626,7 +626,7 @@
 "$success" = "Поспех";
 "$rebuild_data" = "Перабудаваць даныя";
 "$data" = "Даныя";
-"$rebuild_data_subtitle" = "Session запісвае дзеі (дадаць сесію, змяніць сесію) замест даных. Гэта зберагае ўсе падзеі і абнавіць даныя. Рабіце так калі даныя на сінхранізаваліся меж прыладамі пасля вялікіх абнаўленняў. Калі даныя не верны паспрабуйце ўвайсці яшчэ раз.";
+"$rebuild_data_subtitle" = "Session запісвае падзеі (дадаць сесію, змяніць сесію) замест даных. Гэта зберагае ўсе падзеі каб будаваць па іх даныя. Выкарыстоўвайце гэту опцыю калі даныя не сінхранізаваліся меж прыладамі пасля абнаўленняў. Калі даныя не верны паспрабуйце ўвайсці яшчэ раз.";
 "$reset" = "Скінуць";
 "$reset_all_data" = "скінуць усе даныя";
 "$reset_all_data_subtitle" = "Калі ты не ўвайшоў, гэта выдаліць усе даныя";
@@ -672,7 +672,7 @@
 "$total_duration_minute" = "Агульная колькасць мінут";
 "$total_pauses_second" = "Агульная колькасць секунд у паўзах";
 "$total_pauses_minute" = "Агульная колькасць хвілін у паўзах";
-"$total_focus_time" = "Агульны час фокусу";
+"$total_focus_time" = "Агульны час сесіі";
 "$session_updated" = "Сесія абноўлена";
 "$update_current_session" = "Абнавіць гэты сеанс";
 "$this_device" = "Гэты прылад";
