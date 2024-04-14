@@ -280,7 +280,7 @@
 "$login" = "Лагін";
 "$youre_logged_in" = "Вы ўвайшлі!";
 "$logged_in_as %@" = "Вы ўвайшлі як %@";
-"$current_plan %@" = "Бягучая падпіска: %@";
+"$current_plan %@" = "Зараз падпіска: %@";
 "$logout" = "Выйсці";
 "$pro_feature_until" = "Pro-функцыі да";
 "$are_you_sure_logout" = "Вы сапраўды хочаце выйсці?";
@@ -309,7 +309,7 @@
 "$upgrade_to_session_pro" = "Абнавіць Session да Pro!";
 "$learn_more" = "Даведацца больш";
 "$how_much_is_your_time_worth" = "Чаго варты ваш час?";
-"$time_valuable_asset" = "Ваш час гэта каштоўны актыў. Яго немагчыма забяніць. Session дамажа выкарыстаць яго.";
+"$time_valuable_asset" = "Ваш час гэта каштоўнасць. Яго немагчыма павярнуць. Session дамажа выкарыстаць з карысцю.";
 "$only_on_yearly %@" = "Толькі %@ штомесяц у гадавым плане";
 "$see_recent_updates" = "Паглядзі нядаўнія змены";
 "$already_a_subscriber" = "Ужо падпісаліся?";
@@ -344,11 +344,11 @@
 "$real_time_sync" = "Сінхранізацыя меж прыладамі без затрымкі";
 "$dark_mode" = "Цёмная тэма";
 "$full_session_report_access" = "Поўны доступ да аналітыкі";
-"$global_keyboard_shortcuts" = "Глабальная камбінацыі клавіш (толькі MacOS)";
+"$global_keyboard_shortcuts" = "Глабальныя камбінацыі клавіш (толькі MacOS)";
 "$more_than_3_category" = "Больш чым 3 актыўных катэгорыі";
 "$automation_with_applescript_and_shortcuts" = "Аўтаматызацыя з AppleScript і Shortcuts";
 "$automation_with_music_dnd" = "Аўтаматычна прайграць музыку і рэжым \"Не турбаваць\"";
-"$custom_session_duration" = "Любая трываласць сесіі да перапынку";
+"$custom_session_duration" = "Любая трываласць сесіі і перапынку";
 "$unlimited_timer_scrubbing" = "Неабмежавана змена часу";
 "$backup_on_cloud" = "Рэзервная копія даных у воблаку";
 "$website_and_app_blocking" = "Блакіраваць сайты і аплікацыі (толькі MacOS)";
